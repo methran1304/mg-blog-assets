@@ -1,1 +1,0 @@
-# mg-blog-assets
